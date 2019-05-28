@@ -10,7 +10,7 @@
     "symbol": "%",
 	"quench": -2,
     "calories": 150,
-    "description": "Small yellow cream-filled sponge cakes.  Obviously survived the nuclear apocalypse.",
+    "description": "Small, yellow, cream-filled sponge cakes.  Obviously survived the nuclear apocalypse.",
     "price": 150,
     "material": [ "wheat", "junk" ],
     "volume": "280 ml",
