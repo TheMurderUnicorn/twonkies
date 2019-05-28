@@ -19,16 +19,16 @@
     "fun": 10
   },
   {
-	"type": "COMESTIBLE",
-	"id": "twonkie_choc",
-	"name": "chocogator",
-	"copy-from": "twonkie",
-	"weight": 54,
-	"color": "brown",
-	"quench": -1,
-	"calories": 210,
-	"description": "A chocolate covered twonkie!",
-	"volume": "310 ml",
-	"vitamins": [ [ "calcium", 1 ], [ "iron", 4 ] ]
+    "type": "COMESTIBLE",
+    "id": "twonkie_choc",
+    "name": "chocogator",
+    "copy-from": "twonkie",
+    "weight": 54,
+    "color": "brown",
+    "quench": -1,
+    "calories": 210,
+    "description": "A chocolate covered twonkie!",
+    "volume": "310 ml",
+    "vitamins": [ [ "calcium", 1 ], [ "iron", 4 ] ]
   }
 ]
